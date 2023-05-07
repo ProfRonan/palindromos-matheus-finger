@@ -1,6 +1,5 @@
 """Main functions"""
 
-import re 
 def is_palindrome(string: str) -> bool:
     """Check if string is palindrome."""
     texto = string.lower()
